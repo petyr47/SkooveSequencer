@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Skoove Sequencer</string>
+    <string name="play">play</string>
+    <string name="loop">loop</string>
+    <string name="beat">beat</string>
+    <string name="bar">bar</string>
+    <string name="_beat">Beat</string>
+    <string name="_bar">Bar</string>
+</resources>
